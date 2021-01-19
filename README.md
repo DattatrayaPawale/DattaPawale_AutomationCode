@@ -1,3 +1,3 @@
-# DattaPawale_AutomationCode_Innoeye
-This code contains all the automation code which is used at innoeye while automating modules 
+# DattaPawale_AutomationCode
+This code contains all the automation code which is used at while automating modules 
 This is my first commit
